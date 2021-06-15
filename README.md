@@ -1,1 +1,1 @@
-# homepage-centerpiece
+# Homepage Centerpiece
