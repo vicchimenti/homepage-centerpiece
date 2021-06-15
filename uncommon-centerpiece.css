@@ -3,13 +3,13 @@
     margin: 0 !important;
 }
 .hero {
-    align-items: center;
+    align-items: start;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
     background-color: #fff;
-    background-image: url('<t4 type='media' formatter='path/*' id='1560236' />');
+    background-image: url('<t4 type='media' formatter='path/*' id='834074' />');
     background-size:cover;
     background-position: bottom left;
 }
