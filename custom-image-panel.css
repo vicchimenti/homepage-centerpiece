@@ -1,0 +1,11 @@
+.panelWrapper.csi .panelText {
+    background-color: unset;
+}
+
+.panelWrapper.csi h2 a {
+    text-decoration: none;
+}
+
+.panelWrapper.csi h2 a:hover {
+    text-decoration: underline;
+}
